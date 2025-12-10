@@ -1,7 +1,5 @@
 # Antrenarea Retelelor Neuronale folosind Controlul Congestiei (AIMD)
 
-**Proiect Mid-Term: Arheologia Masinilor Inteligente**
-
 
 ## 1. Descrierea Proiectului
 Acest proiect isi propune sa testeze o ipoteza inedita: aplicarea algoritmului **AIMD (Additive Increase Multiplicative Decrease)** in antrenarea retelelor neuronale.
